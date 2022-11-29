@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MRAS23/casa-de-cambio/issues"
   },
-  "homepage": "https://github.com/MRAS23/casa-de-cambio#readme"
+  "homepage": "https://github.com/MRAS23/casa-de-cambio#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
