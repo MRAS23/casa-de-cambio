@@ -1,0 +1,19 @@
+{
+  "name": "casa-de-cambio",
+  "version": "1.0.0",
+  "description": "casa de cambio usando una api, testeado con cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRAS23/casa-de-cambio.git"
+  },
+  "author": "Adamo Mauro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRAS23/casa-de-cambio/issues"
+  },
+  "homepage": "https://github.com/MRAS23/casa-de-cambio#readme"
+}
